@@ -14,4 +14,3 @@ public class _1_TwoSum {
         return indices;
     }
 }
-

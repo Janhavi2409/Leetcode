@@ -9,4 +9,3 @@ public class _153_FinMinimumInRotatedSortedArray {
         return min;
     }
 }
-

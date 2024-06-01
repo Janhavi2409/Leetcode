@@ -26,4 +26,3 @@ public class _152_MaximumProductSubarray {
         return maxProduct;
     }
 }
-

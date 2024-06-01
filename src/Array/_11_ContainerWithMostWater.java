@@ -17,4 +17,3 @@ public class _11_ContainerWithMostWater {
         return maxArea;
     }
 }
-

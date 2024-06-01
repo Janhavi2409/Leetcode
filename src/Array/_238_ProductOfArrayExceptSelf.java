@@ -17,4 +17,3 @@ public class _238_ProductOfArrayExceptSelf {
         return result;
     }
 }
-
