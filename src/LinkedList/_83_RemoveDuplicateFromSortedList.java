@@ -1,9 +1,10 @@
 package LinkedList;
+import LinkedList.SLL.Node;
 
 public class _83_RemoveDuplicateFromSortedList {
-    public SLL.Node deleteDuplicates(SLL.Node head) {
+    public Node deleteDuplicates(Node head) {
         if (head == null) return null;
-        SLL.Node current = head;
+        Node current = head;
         while (current != null && current.next != null) {
             if (current.val == current.next.val) {
                 current.next = current.next.next;

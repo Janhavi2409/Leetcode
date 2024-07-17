@@ -1,9 +1,10 @@
 package LinkedList;
+import static LinkedList.SLL.Node;
 
 public class _21_MergeTwoSortedLists {
-    public SLL.Node mergeTwoLists(SLL.Node list1, SLL.Node list2) {
-        SLL.Node newList = null;
-        SLL.Node tail = null;
+    public Node mergeTwoLists(Node list1, Node list2) {
+        Node newList = null;
+        Node tail = null;
 
         while (list1 != null && list2 != null) {
             if (list1.val < list2.val) {

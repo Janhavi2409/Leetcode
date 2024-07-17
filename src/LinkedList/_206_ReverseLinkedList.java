@@ -1,11 +1,12 @@
 package LinkedList;
+import LinkedList.SLL.Node;
 
 public class _206_ReverseLinkedList {
-    public SLL.Node reverseList(SLL.Node head) {
-        SLL.Node previous = null;
-        SLL.Node current = head;
+    public Node reverseList(Node head) {
+        Node previous = null;
+        Node current = head;
         while (current != null) {
-            SLL.Node temp = current.next;
+            Node temp = current.next;
             current.next = previous;
             previous = current;
             current = temp;

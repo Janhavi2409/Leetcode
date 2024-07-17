@@ -1,9 +1,9 @@
 package LinkedList;
-
+import LinkedList.SLL.Node;
 import java.util.ArrayList;
 
 public class _234_PalindromeLinkedList {
-    public boolean isPalindrome(SLL.Node head) {
+    public boolean isPalindrome(Node head) {
         ArrayList<Integer> list = new ArrayList<>();
         while (head != null) {
             list.add(head.val);

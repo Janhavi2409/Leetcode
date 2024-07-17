@@ -9,7 +9,7 @@ class SLL {
         return size;
     }
 
-    public class Node {
+    public static class Node {
         public int val;
         public Node next;
 

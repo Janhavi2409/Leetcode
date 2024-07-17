@@ -1,9 +1,10 @@
 package LinkedList;
+import LinkedList.SLL.Node;
 
 public class _876_MiddleOfTheLinkedList {
-    public SLL.Node middleNode(SLL.Node head) {
-        SLL.Node fast = head;
-        SLL.Node slow = head;
+    public Node middleNode(Node head) {
+        Node fast = head;
+        Node slow = head;
         int count = 0;
         while (head.next != null) {
             count += 1;
