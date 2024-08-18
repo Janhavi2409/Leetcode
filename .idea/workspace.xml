@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="LinkedList" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -369,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723782983049</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1723909012593</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1723909012593</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -377,9 +385,9 @@
     <MESSAGE value="Linked List" />
     <MESSAGE value="Math" />
     <MESSAGE value="Stacks" />
-    <MESSAGE value="Arrays" />
     <MESSAGE value="Strings" />
     <MESSAGE value="LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
