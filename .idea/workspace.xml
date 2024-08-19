@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Strings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -377,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723909012593</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Strings">
+      <option name="closed" value="true" />
+      <created>1724002208264</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1724002208264</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -385,9 +396,9 @@
     <MESSAGE value="Linked List" />
     <MESSAGE value="Math" />
     <MESSAGE value="Stacks" />
-    <MESSAGE value="Strings" />
     <MESSAGE value="LinkedList" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings" />
   </component>
 </project>
