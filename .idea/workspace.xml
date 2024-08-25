@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Math">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -422,7 +420,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724336828749</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1724513842997</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1724513842997</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1724513857142</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1724513857142</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -430,10 +444,10 @@
     <MESSAGE value="Linked List" />
     <MESSAGE value="Stacks" />
     <MESSAGE value="LinkedList" />
-    <MESSAGE value="Arrays" />
     <MESSAGE value="Strings" />
     <MESSAGE value="Stacks &amp; Queues" />
     <MESSAGE value="Math" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
