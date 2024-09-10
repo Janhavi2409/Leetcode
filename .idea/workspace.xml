@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="ListNode + TreeNode" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="ListNode + Matrix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Strings">
-      <option name="closed" value="true" />
-      <created>1720866385103</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1720866385103</updated>
     </task>
     <task id="LOCAL-00013" summary="Linked List">
       <option name="closed" value="true" />
@@ -444,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725699286312</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="ListNode + Matrix">
+      <option name="closed" value="true" />
+      <created>1725905370684</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1725905370684</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -459,6 +461,7 @@
     <MESSAGE value="Arrays + Simulation" />
     <MESSAGE value="Arrays + Simulation + Math" />
     <MESSAGE value="ListNode + TreeNode" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListNode + TreeNode" />
+    <MESSAGE value="ListNode + Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListNode + Matrix" />
   </component>
 </project>
