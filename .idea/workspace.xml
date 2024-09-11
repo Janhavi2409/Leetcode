@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="ListNode + Matrix">
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="ListNode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Linked List">
-      <option name="closed" value="true" />
-      <created>1721059820759</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1721059820759</updated>
     </task>
     <task id="LOCAL-00014" summary="Stacks and Queues">
       <option name="closed" value="true" />
@@ -446,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725905370684</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="ListNode">
+      <option name="closed" value="true" />
+      <created>1725984563828</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1725984563828</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -462,6 +462,7 @@
     <MESSAGE value="Arrays + Simulation + Math" />
     <MESSAGE value="ListNode + TreeNode" />
     <MESSAGE value="ListNode + Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListNode + Matrix" />
+    <MESSAGE value="ListNode" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListNode" />
   </component>
 </project>
