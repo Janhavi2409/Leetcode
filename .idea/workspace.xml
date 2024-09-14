@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Bit Manipulation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,14 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Stacks and Queues">
-      <option name="closed" value="true" />
-      <created>1721107216433</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1721107216433</updated>
     </task>
     <task id="LOCAL-00016" summary="Stacks and Queues">
       <option name="closed" value="true" />
@@ -444,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726158534918</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Bit Manipulation">
+      <option name="closed" value="true" />
+      <created>1726210711803</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1726210711803</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -461,6 +461,7 @@
     <MESSAGE value="ListNode + Matrix" />
     <MESSAGE value="ListNode" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Bit Manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bit Manipulation" />
   </component>
 </project>
