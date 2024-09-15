@@ -24,8 +24,6 @@ public class _1371_FindTheLongestSubstringContainingVowelsInEvenCounts {
                 map.put(key, index);
             }
         }
-
         return maxLength;
-
     }
 }
