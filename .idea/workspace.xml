@@ -52,22 +52,6 @@
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
     </task>
-    <task id="LOCAL-00016" summary="Stacks and Queues">
-      <option name="closed" value="true" />
-      <created>1721200460411</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1721200460411</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Stacks and Queues">
-      <option name="closed" value="true" />
-      <created>1721203755695</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1721203755695</updated>
-    </task>
     <task id="LOCAL-00018" summary="Stacks and Queues">
       <option name="closed" value="true" />
       <created>1721212560104</created>
@@ -444,7 +428,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726210711803</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Bit Manipulation">
+      <option name="closed" value="true" />
+      <created>1726335936591</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1726335936591</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Bit Manipulation">
+      <option name="closed" value="true" />
+      <created>1726336061638</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1726336061638</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
