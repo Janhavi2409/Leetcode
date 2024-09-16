@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Bit Manipulation" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="HashMap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,22 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Stacks and Queues">
-      <option name="closed" value="true" />
-      <created>1721212560104</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1721212560104</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Linked List">
-      <option name="closed" value="true" />
-      <created>1721234627110</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1721234627110</updated>
     </task>
     <task id="LOCAL-00020" summary="Math">
       <option name="closed" value="true" />
@@ -444,7 +428,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726336061638</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="HashMap">
+      <option name="closed" value="true" />
+      <created>1726421706163</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1726421706164</updated>
+    </task>
+    <task id="LOCAL-00068" summary="HashMap">
+      <option name="closed" value="true" />
+      <created>1726421737282</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1726421737282</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -462,6 +462,7 @@
     <MESSAGE value="ListNode" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Bit Manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bit Manipulation" />
+    <MESSAGE value="HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap" />
   </component>
 </project>
