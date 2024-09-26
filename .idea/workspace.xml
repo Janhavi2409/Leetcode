@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Math" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="HashMap + Strings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,14 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Arrays">
-      <option name="closed" value="true" />
-      <created>1721898093160</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1721898093160</updated>
     </task>
     <task id="LOCAL-00025" summary="Arrays">
       <option name="closed" value="true" />
@@ -444,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726630678949</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="HashMap + Strings">
+      <option name="closed" value="true" />
+      <created>1726630761769</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1726630761769</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -463,6 +463,7 @@
     <MESSAGE value="HashMap" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Math" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math" />
+    <MESSAGE value="HashMap + Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap + Strings" />
   </component>
 </project>
