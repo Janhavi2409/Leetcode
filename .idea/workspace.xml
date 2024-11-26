@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays + Two Pointers" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,14 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Arrays">
-      <option name="closed" value="true" />
-      <created>1722960121697</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1722960121697</updated>
     </task>
     <task id="LOCAL-00029" summary="Arrays">
       <option name="closed" value="true" />
@@ -444,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732611339605</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1732614851058</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1732614851058</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,10 +472,10 @@
     <MESSAGE value="ListNode" />
     <MESSAGE value="Bit Manipulation" />
     <MESSAGE value="HashMap" />
-    <MESSAGE value="Arrays" />
     <MESSAGE value="Math" />
     <MESSAGE value="HashMap + Strings" />
     <MESSAGE value="Arrays + Two Pointers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays + Two Pointers" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
