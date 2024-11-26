@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="HashMap + Strings" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays + Two Pointers">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Arrays">
-      <option name="closed" value="true" />
-      <created>1722929180503</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1722929180503</updated>
     </task>
     <task id="LOCAL-00027" summary="Arrays">
       <option name="closed" value="true" />
@@ -444,8 +438,27 @@
       <option name="project" value="LOCAL" />
       <updated>1727680716793</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Arrays + Two Pointers">
+      <option name="closed" value="true" />
+      <created>1728019435093</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1728019435093</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stacks and Queues" />
@@ -464,6 +477,7 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Math" />
     <MESSAGE value="HashMap + Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap + Strings" />
+    <MESSAGE value="Arrays + Two Pointers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays + Two Pointers" />
   </component>
 </project>

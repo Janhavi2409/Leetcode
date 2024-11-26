@@ -2,16 +2,19 @@ package Array;
 
 public class _53_MaximumSubarray {
     public int maxSubArray(int[] nums) {
-        int maxSum = nums[0];
-        int currentSum = 0;
+        int max = Integer.MIN_VALUE;
+        int sum = 0;
         for (int i = 0; i < nums.length; i++) {
-            if (currentSum < 0) {
-                currentSum = 0;
+            sum += nums[i];
+            if (max < sum) {
+                max = sum;
             }
-            currentSum += nums[i];
-            maxSum = Math.max(maxSum, currentSum);
+            if (sum < 0) {
+                sum = 0;
+            }
         }
-        return maxSum;
+        return max;
     }
+
 }
 
