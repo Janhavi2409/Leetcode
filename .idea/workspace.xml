@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays" />
+    <list default="true" id="02eed360-d288-43af-b721-95fe68380359" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/Array/_48_RotateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,22 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717063319898</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Arrays">
-      <option name="closed" value="true" />
-      <created>1723005987517</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1723005987517</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Arrays">
-      <option name="closed" value="true" />
-      <created>1723008490617</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1723008490617</updated>
     </task>
     <task id="LOCAL-00031" summary="Strings">
       <option name="closed" value="true" />
@@ -444,7 +431,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732614851058</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="ArrayList">
+      <option name="closed" value="true" />
+      <created>1732616111574</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1732616111574</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1732617704224</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1732617704224</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,6 +478,7 @@
     <MESSAGE value="Math" />
     <MESSAGE value="HashMap + Strings" />
     <MESSAGE value="Arrays + Two Pointers" />
+    <MESSAGE value="ArrayList" />
     <MESSAGE value="Arrays" />
     <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
