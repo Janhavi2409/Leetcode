@@ -8,7 +8,7 @@ public class _287_FindTheDuplicateNumber {
         int slow = 0;
         int fast = slow + 1;
         for (int i = 0; i < nums.length; i++) {
-            if (nums[slow] == nums[fast] && fast < nums.length) {
+            if (nums[slow] == nums[fast]) {
                 return nums[slow];
             } else {
                 slow++;
